@@ -1,9 +1,9 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyD-Dic2NdBy-u2gq1mTZKuuvFYxQ3PMpjc",
-    authDomain: "eema-jhon-simple.firebaseapp.com",
-    projectId: "eema-jhon-simple",
-    storageBucket: "eema-jhon-simple.appspot.com",
-    messagingSenderId: "344886847895",
-    appId: "1:344886847895:web:c2c51fe68c21cd2f33bcd2"
-  };
+  apiKey: "AIzaSyCR4yRPykOVkpf2ad6jw65FwcYjIJ69G5U",
+  authDomain: "burj-al-arabb-b8d26.firebaseapp.com",
+  projectId: "burj-al-arabb-b8d26",
+  storageBucket: "burj-al-arabb-b8d26.appspot.com",
+  messagingSenderId: "682067941245",
+  appId: "1:682067941245:web:ba596d1a1f93fe99669e14"
+};
   export default firebaseConfig;
